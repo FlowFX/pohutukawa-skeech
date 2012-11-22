@@ -1,0 +1,19 @@
+/*   
+Theme Name: Pohutukawa-Skeech
+Theme URI:
+Description: Skeech child theme of pohutukawa
+Author: FlowFX
+Author URI: http://flowfx.de/
+Template: pohutukawa
+Version: 1.0
+Tags: Pohutukawa Child Theme
+*/
+
+/* Using @import, to borrow the style sheet from the Pohutukawa parent theme */
+@import url('../pohutukawa/style.css');
+
+/* Now you can start adding your own styles here. Use !important if neccessary. */
+
+#branding {
+    display: none;
+}
