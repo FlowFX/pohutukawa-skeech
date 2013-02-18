@@ -18,6 +18,13 @@ Tags: Pohutukawa Child Theme
     display: none;
 }
 
+.blog header.entry-header {
+    margin-bottom: 15px;
+}
+.blog footer.entry-meta {
+    display:none;
+}
+
 
 /* --- Social Links Widget --- */
 .widget_pohutukawa_sociallinks_x {
